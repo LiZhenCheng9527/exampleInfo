@@ -1,0 +1,2 @@
+# exampleInfo
+storage example
